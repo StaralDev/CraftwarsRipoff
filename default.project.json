@@ -1,0 +1,17 @@
+{
+    "name": "craftwars-ripoff",
+    "emitLegacyScripts": false,
+
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage" : {
+            "$className" : "ReplicatedStorage",
+            
+            "Source" : {
+                "$className" : "Folder",
+                "$path" : "src/ReplicatedStorage"
+            }
+        }
+    }
+}
